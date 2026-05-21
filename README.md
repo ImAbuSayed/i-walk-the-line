@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/i-walk-the-line/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: I Walk the Line](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/i-walk-the-line/) |
+| **Get License** | [Music Rights & Licensing for I Walk the Line](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/i-walk-the-line/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> The midnight fever's running wild and running free
+> I want your body moving right here next to me
+> I feel the steady rhythm when you hold me tight
+> We're riding on the edge of this electric night
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
