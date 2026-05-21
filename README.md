@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/i-walk-the-line/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for I Walk the Line](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/i-walk-the-line/) |
+| **Get License** | [Secure Licensing Rights for I Walk the Line](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/i-walk-the-line/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `efe71df8f2ba64b3b241d970584e3697fd8175cea33420628d5445eb84bae388` |
 | **Timestamp** | May 22, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
